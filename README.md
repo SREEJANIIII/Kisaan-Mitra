@@ -13,7 +13,7 @@ It acts as a digital farming companion, providing personalized crop recommendati
 
 🧠 AI-driven Decision System: Uses intelligent algorithms for adaptive and location-based recommendations.
 
-💬 Farmer-friendly Interface: Simple console project
+💬 Farmer-friendly Interface: Simple console-based project
 
 # 🧩 Tech Stack
 
