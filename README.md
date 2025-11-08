@@ -1,4 +1,4 @@
-#🌱 Kisaan Mitra
+🌱 Kisaan Mitra
 
 Kisaan Mitra is an AI-powered decision support system designed to help farmers choose the most suitable crops based on weather, soil fertility, and erosion levels of their region.
 It acts as a digital farming companion, providing personalized crop recommendations according to the current season and local soil conditions — helping farmers increase yield and sustainability. It also generates personalised advices which helps farmers to increase yield.
