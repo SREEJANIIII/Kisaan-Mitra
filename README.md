@@ -13,11 +13,9 @@ It acts as a digital farming companion, providing personalized crop recommendati
 
 🧠 AI-driven Decision System: Uses intelligent algorithms for adaptive and location-based recommendations.
 
-💬 Farmer-friendly Interface: Simple and intuitive UI for easy access to vital agricultural insights.
+💬 Farmer-friendly Interface: Simple console project
 
 # 🧩 Tech Stack
-
-Frontend: HTML, CSS, JavaScript 
 
 Backend: Python 
 
