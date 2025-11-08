@@ -1,9 +1,9 @@
-🌱 Kisaan Mitra
+# 🌱 Kisaan Mitra
 
 Kisaan Mitra is an AI-powered decision support system designed to help farmers choose the most suitable crops based on weather, soil fertility, and erosion levels of their region.
 It acts as a digital farming companion, providing personalized crop recommendations according to the current season and local soil conditions — helping farmers increase yield and sustainability. It also generates personalised advices which helps farmers to increase yield.
 
-#Key Features
+# Key Features
 
 🌾 Crop Recommendation: Suggests the best crops to grow based on region, soil type, and climate.
 
@@ -15,7 +15,7 @@ It acts as a digital farming companion, providing personalized crop recommendati
 
 💬 Farmer-friendly Interface: Simple and intuitive UI for easy access to vital agricultural insights.
 
-#🧩 Tech Stack
+# 🧩 Tech Stack
 
 Frontend: HTML, CSS, JavaScript 
 
@@ -26,7 +26,7 @@ APIs Used:
 
 🌤️ Geocoding-api.open.meteo
 
-#⚙️ How It Works
+# ⚙️ How It Works
 
 The user (farmer) enters their location.
 
@@ -36,19 +36,19 @@ Based on this data, it analyzes factors like fertility, erosion, humidity, preci
 
 The AI model recommends the most suitable crops for the given season and soil conditions.
 
-#👩‍💻 Team
+# 👩‍💻 Team
 
 Project Name: Kisaan Mitra
 Team name: Algorithm Army
 Team members: Riddhi Mittal, Ritisha Patra, Sreejani Bhattacharaya
 Hackathon: GenAI Fusion
 
-#🤝 Contributions
+# 🤝 Contributions
 
 Contributions are always welcome!
 If you'd like to improve the system, fork the repo and create a pull request.
 
-#🪴 License
+# 🪴 License
 
 This project is licensed under the MIT License – feel free to use and modify with attribution.
 
